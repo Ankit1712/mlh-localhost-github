@@ -101,3 +101,7 @@ simla,india
 Vadodara, India
 
 Nakuru, Kenya
+
+hello world , USA
+
+Austin, Texas
